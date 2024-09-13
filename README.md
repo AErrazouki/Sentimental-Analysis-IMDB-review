@@ -1,0 +1,2 @@
+# Decription : 
+Ce projet consiste à réaliser une analyse de sentiment sur des critiques IMDb en utilisant des techniques avancées de traitement du langage naturel (NLP). Le processus inclut le chargement des données, leur prétraitement, la tokenization et l'encodage des labels, ainsi que la création et l'entraînement d'un modèle de classification basé sur un réseau de neurones récurrents LSTM pour prédire les sentiments exprimés dans les critiques. L'évaluation et les prédictions finales permettent d'obtenir des insights sur les sentiments des critiques.
